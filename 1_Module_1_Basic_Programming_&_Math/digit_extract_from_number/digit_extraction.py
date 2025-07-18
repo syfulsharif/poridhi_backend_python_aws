@@ -1,3 +1,5 @@
+# This code extracts digits from a number and stores them in a list.
+
 n = 7895
 digits = []
 
